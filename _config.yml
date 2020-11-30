@@ -7,7 +7,7 @@ url: "https://underain.github.io"
 
 # Banner Section
 hero: 112.jpg
-hero-title: FOR SERVER
+hero-title: FS
 
 # Author - Creator
 author-name: jacob kim
@@ -24,7 +24,7 @@ pinterest: null
 youtube: null
 
 # Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: null
 
 # Google Analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
@@ -47,10 +47,6 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
 
 include:
   - _pages
