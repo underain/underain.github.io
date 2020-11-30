@@ -6,8 +6,8 @@ baseurl: null
 url: "https://underain.github.io"
 
 # Banner Section
-hero: 112.jpg
-hero-title: FS
+hero: title.jpg
+hero-title: null
 
 # Author - Creator
 author-name: jacob kim
